@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is deprecated and archived.**
+> It is no longer maintained.
+
 # JATOMS
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/jatoms-io/io.jatoms.page)
